@@ -14,7 +14,7 @@ projects:
 publication: In *COVID-19 and Adolescent Development*
 publication_short: In *COVID*
 publication_types:
-- "1"
+- "2"
 publishDate: "2020"
 tags:
 - Source Themes
@@ -24,5 +24,4 @@ url_pdf: https://jamanetwork.com/journals/jamapediatrics/fullarticle/2767276
 url_project: ""
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
