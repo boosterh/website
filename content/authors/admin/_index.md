@@ -15,33 +15,33 @@ education:
     year: 2011
 email: "benjamin.oosterhoff@montana.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Adolescent Health and Well-being
+- Political Development
+- Civic Engagement
+- Advanced Statistical Modeling
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Montana State University
+  url: "http://www.montana.edu/psychology/directory/2114776/benjamin-oosterhoff"
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'benjamin.oosterhoff@montana.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/bjoosterhoff
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=6CV_kIkAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/boosterh
 superuser: true
-title: Nelson Bighetti
+title: Dr. Benjamin Oosterhoff
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Benjamin Oosterhoff is an Assistant Professor of psychology at Montana State University. His research interests include adolescent health and well-being, political and civic development, and advanced statistical modeling. He is the director the Montana Positive YOuth Development Lab, which advances developmental science by applying novel statistical and methodological approaches to understand developmental change during the period of adolescence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
