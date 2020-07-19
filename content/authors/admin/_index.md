@@ -1,19 +1,19 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include adolescent health and well-being, political development, civic engagement, and advanced statistical modeling. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Developmental Psychology
+    institution: West Virginia University
+    year: 2015
+  - course: MS in Developmental Psychology
+    institution: West Virginia University
+    year: 2013
+  - course: BA in Psychology
+    institution: Michigan State University
+    year: 2011
+email: "benjamin.oosterhoff@montana.edu"
 interests:
 - Artificial Intelligence
 - Computational Linguistics
