@@ -1,13 +1,12 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Cara A. Palmer
+date: "2020"
+doi: "10.1001/jamapediatrics.2020.1876"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2020/03/18090451/social-distancing.jpg)'
   focal_point: ""
   preview_only: false
 links:
@@ -19,20 +18,14 @@ publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2020"
 tags:
 - Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
+title: Attitudes and psychological factors associated with news monitoring, social distancing, disinfecting, and hoarding behaviors among US adolescents during the Coronavirus-19 pandemic. 
+url_preprint: https://psyarxiv.com/rpcy4/
+url_pdf: https://jamanetwork.com/journals/jamapediatrics/fullarticle/2767276
 url_project: ""
-url_slides: ""
 url_source: '#'
-url_video: '#'
 ---
 
 {{% alert note %}}

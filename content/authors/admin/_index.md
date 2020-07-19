@@ -38,7 +38,7 @@ social:
   link: https://github.com/boosterh
 - icon: osf
   icon_pack: ai
-  link: https://github.com/boosterh
+  link: https://osf.io/79avc/
 superuser: true
 title: Dr. Benjamin Oosterhoff
 user_groups:
