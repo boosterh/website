@@ -26,7 +26,7 @@ role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'benjamin.oosterhoff@montana.edu'
+  link: 'mailto:benjamin.oosterhoff@montana.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bjoosterhoff
