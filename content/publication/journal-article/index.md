@@ -1,26 +1,56 @@
 ---
+abstract: 
+
+Importance  As coronavirus disease 2019 (COVID-19) spreads across the world, it is critical to understand the psychological factors associated with pandemic-related behaviors. This perspecitve may be especially important to study among adolescents, who are less likely to experience severe symptoms but contribute to the spread of the virus.
+
+Objective  To examine psychological factors associated with adolescents’ behaviors during the COVID-19 pandemic.
+
+Design, Setting, and Participants  This self-reported survey conducted from March 20 to 22, 2020, recruited a population-based sample of adolescents via social media to complete an anonymous survey. Participants were eligible if they had internet access, lived in the United States, and were aged 13 to 18 years.
+
+Main Outcomes and Measures  Outcomes included COVID-19 news monitoring, social distancing, disinfecting, and hoarding behaviors during the 7 days after the United States declared a national emergency. The psychological factors were attitudes about COVID-19 severity, social responsibility values, social trust, and self-interest. The a priori hypotheses were that greater attitudes about the severity of COVID-19, greater social responsibility, and greater social trust would be associated with greater news monitoring, social distancing, and disinfecting, whereas greater self-interest would be associated with more hoarding.
+
+Results  The sample included 770 adolescents collected via convenience sampling (mean [SD] age, 16.3 [1.1] years; 575 girls [74.7%]). Many teens reported not engaging in pure social distancing (528 [68.6%]), but they were monitoring the news (688 [89.4%]) and disinfecting daily (676 [87.8%]). Some teens reported hoarding (152 [19.7%]). Attitudes about the greater severity of COVID-19 were associated with more social distancing (β = 0.18; 95% CI = 0.10 to 0.25), disinfecting (β = 0.16; 95% CI = 0.08 to 0.23), and news monitoring (β = 0.26; 95% CI = 0.18 to 0.33) but also more hoarding (β = 0.08; 95% CI = 0.01 to 0.16). Greater social responsibility was associated with more disinfecting (β = 0.24; 95% CI = 0.17 to 0.32) and news monitoring (β = 0.14; 95% CI = 0.07 to 0.22) and less hoarding (β = −0.07; 95% CI = −0.14 to −0.01). Greater self-interest values were associated with less social distancing (β = −0.08; 95% CI = −0.15 to −0.01) and more hoarding (β = 0.08; 95% CI = 0.01 to 0.15). Greater social trust was associated with less hoarding (β = −0.09; 95% CI, −0.16 to −0.02).
+
+Conclusions and Relevance  The results of this survey study suggest that emphasizing the severity of COVID-19 and the social implications of pandemic-related behaviors may be important for teens, particularly for those who are not following preventive health behaviors or who are engaging in hoarding.
+
 authors:
 - admin
 - Cara A. Palmer
 date: "2020"
-featured: true
+#doi: ""
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2020/03/18090451/social-distancing.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 links:
+#- name: Custom Link
+#  url: http://example.org
 projects:
 - internal-project
-publication: JAMA Pediatrics
-publication_short: JAMA Pediatrics
+publication: "JAMA Pediatrics"
+publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020"
+#slides: example
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. #Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Attitudes and psychological factors associated with news monitoring, social distancing, disinfecting, and hoarding behaviors among US adolescents during the Coronavirus-19 pandemic. 
+title: Attitudes and psychological factors associated with news monitoring, social distancing, disinfecting, and hoarding behaviors among US adolescents during the Coronavirus-19 pandemic 
+#url_code: '#'
+#url_dataset: '#'
 url_preprint: https://psyarxiv.com/rpcy4/
 url_pdf: https://jamanetwork.com/journals/jamapediatrics/fullarticle/2767276
-url_project: ""
+#url_poster: '#'
+#url_project: ""
+#url_slides: ""
+#url_source: '#'
+#url_video: '#'
 ---
 
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
