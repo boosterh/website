@@ -5,11 +5,11 @@ image:
   caption: 
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/bjoosterhoff
-slides: example
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/bjoosterhoff
+# slides: example
 summary: Understanding the developmental origins of political attitudes and participation
 tags:
 #- Deep Learning
