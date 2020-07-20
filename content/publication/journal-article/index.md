@@ -11,8 +11,8 @@ image:
 links:
 projects:
 - internal-project
-publication: In *COVID-19 and Adolescent Development*
-publication_short: In *COVID*
+publication: JAMA Pediatrics
+publication_short: JAMA Pediatrics
 publication_types:
 - "2"
 publishDate: "2020"
