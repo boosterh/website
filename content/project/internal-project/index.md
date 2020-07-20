@@ -1,19 +1,19 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/bjoosterhoff
 slides: example
-summary: An example of using the in-built project page.
+summary: Understanding the developmental origins of political attitudes and participation
 tags:
-- Deep Learning
-title: Internal Project
+#- Deep Learning
+title: Political Development
 url_code: ""
 url_pdf: ""
 url_slides: ""
